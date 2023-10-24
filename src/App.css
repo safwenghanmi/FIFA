@@ -1,0 +1,23 @@
+
+
+.playerlist{
+    
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.App{
+    width: 100%;
+    height:100vh;
+    background-image:url(https://www.ecofoot.fr/wp-content/uploads/2018/04/organisation-coupe-du-monde-2026.jpg);
+    background-size:cover;
+    background-attachment: fixed; 
+    background-repeat: no-repeat; 
+    background-position: center center;
+}
+
+
+.App h1{
+    margin-left: 40%;
+}
